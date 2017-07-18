@@ -1,0 +1,30 @@
+header {
+  display: flex;
+  color: white;
+  background-color: black;
+  height: 200px;
+  justify-content: center;
+  font-size: 40px;
+  padding-top: 75px;
+
+}
+.section1{
+  position: absolute;
+  left:200px;
+}
+#line{
+  position: absolute;
+  left: 500px;
+  bottom:3px;
+
+}
+.section2{
+  position: absolute;
+  margin-left: 800px;
+  bottom: 100px;
+  right:100px;
+
+}
+img {
+  float:right;
+}
